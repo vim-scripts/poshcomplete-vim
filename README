@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4844
+
+This is omnifunc for PowerShell.
+
+Usage:
+    foobar<C-X><C-O>
+
+LATEST VERSION
+    https://github.com/cd01/poshcomplete-vim
