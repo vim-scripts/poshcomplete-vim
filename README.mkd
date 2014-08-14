@@ -1,0 +1,45 @@
+# poshcomplete-vim [![Build status](https://ci.appveyor.com/api/projects/status/ldd0w77k0ruw4sc9)](https://ci.appveyor.com/project/cd01/poshcomplete-vim)
+
+omnifunc for PowerShell in Vim  
+Inspired by [Omnisharp](https://github.com/nosami/Omnisharp)
+
+![screencast](https://raw.githubusercontent.com/cd01/poshcomplete-vim/master/screencast.gif)
+
+
+## Installation
+
+```ps1
+netsh http add urlacl url=http://+:1234/ user=Everyone
+
+cd $(Join-Path $env:USERPROFILE "vimfiles\bundle")
+git clone https://github.com/cd01/poshcomplete-vim.git
+
+cd poshcomplete-vim
+nuget restore .\PoshComplete\PoshComplete.sln
+msbuild .\PoshComplete\PoshComplete.sln
+```
+
+
+## Usage
+
+* Run `PoshComplete/PoshComplete/bin/Release/PoshComplete.exe`
+
+foobar`<C-X>``<C-O>`
+
+
+## Requirements
+
+* Windows 7+
+* [webapi-vim](https://github.com/mattn/webapi-vim)
+* [vimproc](https://github.com/Shougo/vimproc.vim/downloads)
+
+
+## Special Thanks
+
+* [sgur](https://github.com/sgur)
+
+
+## Licence
+
+MIT
+

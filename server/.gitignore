@@ -1,0 +1,9 @@
+*.suo
+PoshComplete/bin
+PoshComplete/obj
+PoshComplete/dictionary/*.xml
+packages/*
+!packages/repositories.config
+Microsoft.Build.dll
+NuGet.exe
+

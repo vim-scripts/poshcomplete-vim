@@ -1,0 +1,11 @@
+C:\projects\poshcomplete-server\server\PoshComplete\bin\Release\PoshComplete.exe.config
+C:\projects\poshcomplete-server\server\PoshComplete\bin\Release\PoshComplete.exe
+C:\projects\poshcomplete-server\server\PoshComplete\bin\Release\PoshComplete.pdb
+C:\projects\poshcomplete-server\server\PoshComplete\bin\Release\GetOptNet.dll
+C:\projects\poshcomplete-server\server\PoshComplete\bin\Release\Nancy.dll
+C:\projects\poshcomplete-server\server\PoshComplete\bin\Release\Nancy.Hosting.Self.dll
+C:\projects\poshcomplete-server\server\PoshComplete\bin\Release\Nancy.xml
+C:\projects\poshcomplete-server\server\PoshComplete\bin\Release\Nancy.Hosting.Self.xml
+C:\projects\poshcomplete-server\server\PoshComplete\obj\Release\PoshComplete.csprojResolveAssemblyReference.cache
+C:\projects\poshcomplete-server\server\PoshComplete\obj\Release\PoshComplete.exe
+C:\projects\poshcomplete-server\server\PoshComplete\obj\Release\PoshComplete.pdb
